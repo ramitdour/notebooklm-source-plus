@@ -1,0 +1,13 @@
+/*
+  The !important is used to ensure our style overrides
+  any of the website's existing styles.
+*/
+.scroll-area-desktop {
+  display: none !important;
+}
+
+/* Some basic styling for our own UI */
+.sp-container {
+  padding: 0 16px 16px 16px;
+  border-bottom: 1px solid #ccc;
+}
