@@ -84,6 +84,15 @@ NotebookLM is powerful for learning and research. Many projects span multiple ca
 * **Ungrouped**: items not assigned to any group appear under **Ungrouped**.
 
 ---
+## Screenshots
+
+![Overview](images/NotebookLM-images-0.jpg)
+![Default View](images/NotebookLM-images-1.jpg)
+![Grouped Sources](images/NotebookLM-images-2.jpg)
+![Isolated Focus](images/NotebookLM-images-3.jpg)
+![Gemini Assisted Development](images/NotebookLM-images-4.jpg)
+
+---
 
 ## Product requirements
 
