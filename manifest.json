@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Sources+",
+  "version": "0.2.0", 
+  "description": "Adds folder-style organization to the NotebookLM sources panel.",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://notebooklm.google.com/notebook/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
